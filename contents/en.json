@@ -1,0 +1,131 @@
+{
+	"about": {
+		"intro": "I'm a *Software Developer* building **scalable web experiences** and growing toward backend and system design.",
+		"description": "I work mainly with *React*, *Next.js*, *TypeScript*, *Node.js*, and *SQL*, turning product requirements into reliable, maintainable interfaces and internal tools.",
+		"full": "Hi, I'm **Soumyajit Basak**, a Software Developer at **EXA AG** in Bengaluru. I started my professional journey as a Software Developer Intern and now contribute to enterprise platforms and internal products with a focus on thoughtful, scalable frontend architecture.\n\nAt EXA AG, I have improved reusable React components for an OTP automation platform, contributed to a resource allocation tool, and worked on products including the SNP Software Download Portal and Kyano Marketplace. I collaborate with cross-functional teams and use technologies such as *React*, *TypeScript*, *Node.js*, *Bootstrap*, and *Tailwind CSS* in an Agile environment.\n\nI hold a **B.Tech in Electronics & Communication Engineering** from REVA University. My technical foundation includes *JavaScript*, *Java*, *SQL*, *MySQL*, *HTML*, *CSS*, *GitHub*, *GitLab*, and *Docker*, along with coursework in system design, object-oriented programming, computer networks, and computer science fundamentals.\n\nAlongside my professional work, I'm currently working on personal projects to deepen my skills. **FlowPi** is a JIRA-like project management application built with React, TypeScript, Next.js, Hono.js, Appwrite, Tailwind CSS, and Redux. I also built a dynamic portfolio website to present my work and technical journey.\n\nMy current goal is to specialize in **backend development and system design**, while creating more professional software, reusable libraries, and simple tools that solve practical problems."
+	},
+	"manifesto": [
+		"RADICAL TRANSPARENCY",
+		"INTENTIONAL MINIMALISM",
+		"ARCHITECTURAL INTEGRITY",
+		"FIRST PRINCIPLES THINKING",
+		"PERFORMANCE WITHOUT COMPROMISE",
+		"SCALABLE VISION"
+	],
+	"products": [
+		{
+			"id": "1",
+			"title": "FlowPi",
+			"category": "Project Management",
+			"year": "2026",
+			"status": "Currently Building",
+			"description": "FlowPi is a JIRA-like project management application built with React.js, TypeScript, Next.js, Hono.js, Appwrite, Tailwind CSS, and Redux. It uses a scalable, modular frontend architecture to improve UI responsiveness and application performance by 30%.\n\nCurrently under active development, FlowPi is being crafted with an aesthetic, modern interface that makes project tracking and collaboration feel clear and engaging. The platform is continuously evolving with drag-and-drop task management, advanced filtering, and AI-driven task visualization and recommendations, improving workflow efficiency and enabling 25% higher productivity.",
+			"image": "/projects/FlowPi.png",
+			"stack": [
+				"React",
+				"TypeScript",
+				"Next.js",
+				"Hono.js",
+				"Appwrite",
+				"TailwindCSS",
+				"Redux"
+			]
+		},
+		{
+			"id": "1",
+			"title": "FlowPi",
+			"category": "Project Management",
+			"year": "2026",
+			"status": "Currently Building",
+			"description": "FlowPi is a JIRA-like project management application built with React.js, TypeScript, Next.js, Hono.js, Appwrite, Tailwind CSS, and Redux. It uses a scalable, modular frontend architecture to improve UI responsiveness and application performance by 30%.\n\nCurrently under active development, FlowPi is being crafted with an aesthetic, modern interface that makes project tracking and collaboration feel clear and engaging. The platform is continuously evolving with drag-and-drop task management, advanced filtering, and AI-driven task visualization and recommendations, improving workflow efficiency and enabling 25% higher productivity.",
+			"image": "/projects/FlowPi.png",
+			"stack": [
+				"React",
+				"TypeScript",
+				"Next.js",
+				"Hono.js",
+				"Appwrite",
+				"TailwindCSS",
+				"Redux"
+			]
+		}
+	],
+	"projects": [
+		{
+			"id": "1",
+			"title": "RepoQuest",
+			"category": "Web Application",
+			"year": "2024",
+			"description": "RepoQuest is a minimalist GitHub user search tool that lets you explore profiles, repositories, followers, and following in one place. It also surfaces useful profile details such as a user's location, company, portfolio, and social links through the GitHub API.",
+			"image": "/projects/RepoQuest.png",
+			"demo": "https://repoquest.vercel.app/",
+			"repo": "https://github.com/soumyajiitt/RepoQuest",
+			"stack": ["React", "TypeScript", "TailwindCSS", "GitHub API"]
+		},
+		{
+			"id": "2",
+			"title": "Portfolio Website",
+			"category": "Personal Portfolio",
+			"year": "2024",
+			"description": "A personal developer portfolio designed to present my experience, projects, skills, and technical journey through an interactive and responsive interface. It includes animated transitions, dark mode, project highlights, contact options, and a downloadable resume.",
+			"image": "/projects/Portfolio.png",
+			"demo": "https://soumyajitbasak.netlify.app/",
+			"repo": "https://github.com/soumyajiitt/Portfolio",
+			"stack": ["React", "JavaScript", "Framer Motion", "TailwindCSS"]
+		},
+		{
+			"id": "3",
+			"title": "Dynamic Tic-Tac-Toe Game",
+			"category": "Browser Game",
+			"year": "2024",
+			"description": "A dynamic two-player Tic-Tac-Toe game for the browser, built around a clear game board and turn-based interaction. Players can take the X and O roles, update their names, and play quick matches in a responsive interface.",
+			"image": "/projects/tic-tac-toe.png",
+			"demo": "https://tic-tac-toe-project-x-o.vercel.app/",
+			"repo": "https://github.com/soumyajiitt/tic-tac-toe",
+			"stack": ["JavaScript", "HTML", "CSS"]
+		},
+		{
+			"id": "4",
+			"title": "Multi-Step Form",
+			"category": "Web Application",
+			"year": "2022",
+			"description": "A responsive multi-step form that guides users through personal information, plan selection, add-ons, and a final order summary. It includes front-end validation, clear progress navigation, responsive layouts, and confirmation of the completed selections.",
+			"image": "/projects/multi-step-form.png",
+			"demo": "https://multi-step-form-soumyajiitt.netlify.app/",
+			"repo": "https://github.com/soumyajiitt/multi-step-form",
+			"stack": ["HTML", "CSS", "JavaScript"]
+		}
+	],
+	"roadmap": [
+		{
+			"id": "01",
+			"year": "2020",
+			"description": "I joined REVA University to pursue a B.Tech in Electronics and Communication Engineering. I learned the fundamentals of programming and began building personal projects with HTML, CSS, and JavaScript.",
+			"stack": ["HTML", "CSS", "JavaScript"]
+		},
+		{
+			"id": "02",
+			"year": "2024",
+			"description": "I joined EXA AG as a Software Developer Intern, working on OTP (Operational Transfer Pricing), a product built with React. After four months, I converted to a full-time Software Developer role in the same organization.",
+			"stack": ["React", "JavaScript", "OTP"]
+		},
+		{
+			"id": "03",
+			"year": "2024",
+			"description": "As a full-time developer at EXA AG, I continued contributing to OTP and strengthened my experience building production-ready interfaces and working within an enterprise product team.",
+			"stack": ["React", "TypeScript"]
+		},
+		{
+			"id": "04",
+			"year": "2025",
+			"description": "I became part of the Frontend Team and led the Resource Allocation Tool at EXA AG, building it from scratch with TypeScript, React, Next.js, and Framer Motion. Later in the year, I began taking on backend work with Node.js.",
+			"stack": ["TypeScript", "React", "Next.js", "Framer Motion", "Node.js"]
+		},
+		{
+			"id": "05",
+			"year": "2026",
+			"description": "I am currently building FlowPi, my own project management application, while growing into full-stack development across frontend and backend technologies. I am also learning system design to build and deliver scalable systems.",
+			"stack": ["React", "TypeScript", "Next.js", "Node.js", "System Design"]
+		}
+	]
+}

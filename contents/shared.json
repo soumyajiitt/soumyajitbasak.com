@@ -1,0 +1,126 @@
+{
+	"contact": {
+		"location": "Bengaluru, Karnataka, India",
+		"email": "soumyajitbasak.work@gmail.com",
+		"phone": "Not added yet."
+	},
+	"social": [
+		{
+			"label": "GitHub",
+			"href": "https://github.com/soumyajiitt"
+		},
+		{
+			"label": "Instagram",
+			"href": "https://instagram.com/soumyajiitttt"
+		},
+		{
+			"label": "Linkedin",
+			"href": "https://www.linkedin.com/in/soumyajiitttt/"
+		}
+	],
+	"stack": {
+		"frontend": [
+			{
+				"name": "React",
+				"icon": "/stack/react.svg",
+				"featured": true
+			},
+			{
+				"name": "Next.js",
+				"icon": "/stack/nextjs.svg",
+				"featured": true
+			},
+			{
+				"name": "TypeScript",
+				"icon": "/stack/typescript.svg",
+				"featured": true
+			},
+			{
+				"name": "Tailwind CSS",
+				"icon": "/stack/tailwindcss.svg",
+				"featured": true
+			},
+			{
+				"name": "Framer Motion",
+				"icon": "/stack/framermotion.svg"
+			},
+			{
+				"name": "JavaScript",
+				"icon": "/stack/javascript.svg"
+			},
+			{
+				"name": "HTML5",
+				"icon": "/stack/html5.svg"
+			},
+			{
+				"name": "CSS3",
+				"icon": "/stack/css3.svg"
+			}
+		],
+		"backend": [
+			{
+				"name": "Node.js",
+				"icon": "/stack/nodejs.svg"
+			},
+			{
+				"name": "Hono",
+				"icon": "/stack/hono.svg"
+			},
+			{
+				"name": "Bun",
+				"icon": "/stack/bun.svg"
+			}
+		],
+		"database": [
+			{
+				"name": "MySQL",
+				"icon": "/stack/mysql.svg",
+				"featured": true
+			},
+			{
+				"name": "MongoDB",
+				"icon": "/stack/mongodb.svg"
+			}
+		],
+		"tools": [
+			{
+				"name": "Git",
+				"icon": "/stack/git.svg"
+			},
+			{
+				"name": "Vercel",
+				"icon": "/stack/vercel.svg"
+			},
+			{
+				"name": "Vs code",
+				"icon": "/stack/vscode.svg"
+			},
+			{
+				"name": "Postman",
+				"icon": "/stack/postman.svg"
+			},
+			{
+				"name": "Figma",
+				"icon": "/stack/figma.svg"
+			},
+			{
+				"name": "Docker",
+				"icon": "/stack/docker.svg"
+			}
+		],
+		"AI Tools": [
+			{
+				"name": "ChatGPT",
+				"icon": "/stack/chatgpt.svg"
+			},
+			{
+				"name": "Claude Code",
+				"icon": "/stack/claudecode.svg"
+			},
+			{
+				"name": "Cursor",
+				"icon": "/stack/cursor.svg"
+			}
+		]
+	}
+}

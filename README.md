@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Soumyajit Basak
 
-## Getting Started
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Engineer;Full+Stack+Developer;Learning+Backend+%26+System+Design" alt="Animated introduction" />
+</p>
 
-First, run the development server:
+I'm a Software Developer at EXA AG in Bengaluru, India.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I enjoy building reliable web applications, reusable components, and simple tools that solve real problems.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- I work mainly with React, TypeScript, Next.js, Node.js, and SQL.
+- I have a B.Tech in Electronics & Communication Engineering from REVA University.
+- I am currently learning more about backend development and system design.
+- I am building FlowPi, a project management application, in my free time.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies
 
-## Learn More
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,mysql,docker,git,tailwind&perline=8" alt="React, TypeScript, Next.js, Node.js, MySQL, Docker, Git, and Tailwind CSS" />
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+React, TypeScript, JavaScript, Next.js, Node.js, SQL, MySQL, Docker, Git, and Tailwind CSS.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Connect With Me
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [GitHub](https://github.com/soumyajiitt)
+- [LinkedIn](https://www.linkedin.com/in/soumyajiitttt/)
+- [Email](mailto:soumyajitbasak.work@gmail.com)
 
-## Deploy on Vercel
+## GitHub Activity
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=soumyajiitt&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="165" alt="Soumyajit's GitHub statistics" />
+	<img src="https://streak-stats.demolab.com/?user=soumyajiitt&hide_border=true&theme=default" height="165" alt="Soumyajit's GitHub contribution streak" />
+</p>
